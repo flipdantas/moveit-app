@@ -1,10 +1,11 @@
-<h1>Moveit</h1>
+# Moveit
+
+### Aplicação de Técnica de Pomodoro, gamificado com exercícios a cada período de tempo.
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licença">Licença</a>
+  <a href="#-como-executar">Como executar</a>
 </p>
 
 ## ✨ Tecnologias
@@ -18,6 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O move.it é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+Na descrição do projeto é possível testá-lo pelo site da vercel, onde coloquei 12 segundos para facilitar os testes.
 
 ## 🚀 Como executar
 
